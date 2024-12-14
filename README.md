@@ -10,6 +10,8 @@ To calculate these changes, SLC follows the principle of proportionality based o
 
 The calculator is perfect for quick and accurate spring compression calculations without manually solving formulas.
 
+
+
 How to Use the Program
 
   Launch the Program: Double-click the application to open the graphical interface.
