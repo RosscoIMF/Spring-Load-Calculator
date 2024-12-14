@@ -1,6 +1,9 @@
-Introduction
+Spring Load Calculator v1.00
+
+Standalone executable. No need for installation. Unzip and run Spring Load Calculator.exe to start.
 
 Welcome to the Spring Load Calculator!
+
 This tool is designed to help you calculate the compression of a spring under varying loads. By inputting the original mass, new mass, and original compression of the spring, the program quickly computes the new compression and provides a multiplying factor for the change.
 
 The calculator is perfect for quick and accurate spring compression calculations without manually solving formulas.
