@@ -15,8 +15,8 @@ How to Use the Program
   Launch the Program: Double-click the application to open the graphical interface.
   
   Enter the Inputs:
-        Original Mass: Enter the initial mass (in grams) that was compressing the spring.
-        New Mass: Enter the new mass (in grams) to calculate the adjusted compression.
+        Original Piston Mass: Enter the original piston mass (in grams)
+        New Mass: Enter the new piston mass (in grams) 
         Original Compression: Input the spring's original compression (in millimeters).
   
   Click "Calculate New Compression":
