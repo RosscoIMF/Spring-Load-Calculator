@@ -14,7 +14,6 @@ How to Use the Program
 
   Launch the Program: Double-click the application to open the graphical interface.
   
-  Enter the Inputs:
   Original Piston Mass: Enter the original piston mass (in grams)
         
   New Mass: Enter the new piston mass (in grams) 
