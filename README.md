@@ -15,19 +15,23 @@ How to Use the Program
   Launch the Program: Double-click the application to open the graphical interface.
   
   Enter the Inputs:
-        Original Piston Mass: Enter the original piston mass (in grams)
-        New Mass: Enter the new piston mass (in grams) 
-        Original Compression: Input the spring's original compression (in millimeters).
+  Original Piston Mass: Enter the original piston mass (in grams)
+        
+  New Mass: Enter the new piston mass (in grams) 
+        
+  Original Compression: Input the spring's original compression (in millimeters).
   
   Click "Calculate New Compression":
-        The program will compute the new compression in millimeters.
-        It will also display the multiplying factor showing the proportional change.
+        
+  The program will compute the new compression in millimeters. It will also display the multiplying factor showing the proportional change.
   
   View Results:
-        The results will appear below the button, showing the updated spring compression and multiplying factor.
+  
+  The results will appear below the button, showing the updated spring compression and multiplying factor.
   
   Reset Fields (Optional):
-        If you wish to perform a new calculation, clear the inputs manually or close and reopen the application as I couldn't be bothered to implement a reset button.
+  
+  If you wish to perform a new calculation, clear the inputs manually or close and reopen the application as I couldn't be bothered to implement a reset button.
 
 Notes:
 
