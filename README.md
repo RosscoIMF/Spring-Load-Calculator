@@ -6,8 +6,6 @@ Welcome to the Spring Load Calculator!
 
 This tool is designed to help you calculate the compression of a spring under varying loads. By inputting the original mass, new mass, and original compression of the spring, the program quickly computes the new compression and provides a multiplying factor for the change. SLC calculates how much a spring must compress when the mass of the piston changes, ensuring that the lighter piston retains the same kinetic energy as the heavier one.
 
-The key concept here is that the spring's compression is related to the piston’s kinetic energy. In order to make a lighter piston behave similarly to a heavier one, adjustments to the spring preload or the number of coils in the spring are necessary.
-
 To calculate these changes, SLC follows the principle of proportionality based on the square root of the mass and uses a multiplying factor based on the difference in mass between the pistons. This factor helps determine how much the spring needs to be altered. For instance, if the original spring has 20 coils and the multiplying factor is 1.31, the new spring should have 26.2 coils (20 x 1.31 = 26.2), assuming we keep the wire gauge and material the same or alternatively, it would require an additional 26mm of preload if you decide to use the existing spring. This adjustment ensures that the spring provides a response to the piston that maintains the same kinetic energy, despite the change in mass.
 
 The calculator is perfect for quick and accurate spring compression calculations without manually solving formulas.
