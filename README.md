@@ -4,19 +4,13 @@ Standalone executable. No need for installation. Unzip and run Spring Load Calcu
 
 Welcome to the Spring Load Calculator!
 
-This tool is designed to help you calculate the compression of a spring under varying loads. By inputting the original mass, new mass, and original compression of the spring, the program quickly computes the new compression and provides a multiplying factor for the change.
+This tool is designed to help you calculate the compression of a spring under varying loads. By inputting the original mass, new mass, and original compression of the spring, the program quickly computes the new compression and provides a multiplying factor for the change. SLC calculates how much a spring must compress when the mass of the piston changes, ensuring that the lighter piston retains the same kinetic energy as the heavier one.
+
+The key concept here is that the spring's compression is related to the piston’s kinetic energy. In order to make a lighter piston behave similarly to a heavier one, adjustments to the spring preload or the number of coils in the spring are necessary.
+
+To calculate these changes, SLC follows the principle of proportionality based on the square root of the mass and uses a multiplying factor based on the difference in mass between the pistons. This factor helps determine how much the spring needs to be altered. For instance, if the original spring has 20 coils and the multiplying factor is 1.31, the new spring should have 26.2 coils (20 x 1.31 = 26.2), assuming we keep the wire gauge and material the same or alternatively, it would require an additional 26mm of preload if you decide to use the existing spring. This adjustment ensures that the spring provides a response to the piston that maintains the same kinetic energy, despite the change in mass.
 
 The calculator is perfect for quick and accurate spring compression calculations without manually solving formulas.
-
-What Does It Do?
-
-When a spring is compressed under a certain mass, its compression follows the principle of proportionality based on the square root of the mass. The Spring Load Calculator helps you determine:
-
-The new compression of the spring when the mass changes.
-
-A multiplying factor showing the ratio of the compression adjustment.
-
-This tool allows you to focus on the results rather than the calculations.
 
 How to Use the Program
 
@@ -35,7 +29,7 @@ How to Use the Program
         The results will appear below the button, showing the updated spring compression and multiplying factor.
   
   Reset Fields (Optional):
-        If you wish to perform a new calculation, clear the inputs manually or close and reopen the application.
+        If you wish to perform a new calculation, clear the inputs manually or close and reopen the application as I couldn't be bothered to implement a reset button.
 
 Notes:
 
