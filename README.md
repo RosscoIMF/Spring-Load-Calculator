@@ -27,17 +27,17 @@ How to Use the Program
   View Results:
         
   The program will compute the new compression in millimeters.
-  New compression minus old compression = amount of additional preload required if the current spring is to be used.
+  New compression minus old compression = amount of additional preload required if the existing spring is to be used.
   
-  It will also display the multiplication factor that represents the proportional change in the number of spring coils required compared to the old spring.
+  It will also display the multiplication factor that represents the proportional change in the number of spring coils required compared to the existing spring.
   
   View Results:
   
   The results will appear below the button, showing the updated spring compression and multiplying factor.
   
-  Reset Fields (Optional):
+  Reset Fields:
   
-  If you wish to perform a new calculation, clear the inputs manually or close and reopen the application as I couldn't be bothered to implement a reset button.
+  If you wish to perform a new calculation, clear the inputs manually or close and reopen the application as I couldn't be bothered to implement a reset button. :)
 
 Notes:
 
