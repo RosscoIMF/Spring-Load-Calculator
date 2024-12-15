@@ -22,9 +22,14 @@ How to Use the Program
         
   Original Compression: Input the spring's original compression (in millimeters).
   
-  Click "Calculate New Compression":
+  Click "Calculate New Compression"
+
+  View Results:
         
-  The program will compute the new compression in millimeters. It will also display the multiplying factor showing the proportional change.
+  The program will compute the new compression in millimeters.
+  New compression minus old compression = amount of additional preload required if the current spring is to be used.
+  
+  It will also display the multiplying factor showing the proportional change.
   
   View Results:
   
